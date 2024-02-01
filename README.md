@@ -10,7 +10,7 @@ Hello there! 👋 I'm Ansori, with a keen interest in Robotics and IoT. I posses
 ## 🛠️ Technologies & Tools
 
 - **Programming Languages**: `Python, C++, C`
-- **Frameworks & Libraries**: `OpenCV, ROS, `
+- **Frameworks & Libraries**: `OpenCV, ROS `
 - **Embedded Systems**: `Jetson Nano, Arduino, STM32`
 
 ## 🌱 Current Projects & Learning
