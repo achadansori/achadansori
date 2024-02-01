@@ -1,16 +1,22 @@
-### Hi there 👋
+## 👋 Muhammad Achad Ansori
 
-<!--
-**achadansori/achadansori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=achadansori&color=blue&style=flat-square" align="left">
+</div>
+<br>
 
-Here are some ideas to get you started:
+Hello there! 👋 I'm Ansori, with a keen interest in Robotics and IoT. I possess programming skills in C++, Python, as well as knowledge in Embedded Systems. I have experience in developing autonomous robots, home automation systems, and unamanned vehicle. I am also certified in related fields and eager to learn and grow in the technology industry.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+
+- **Programming Languages**: `Python, C++, C`
+- **Frameworks & Libraries**: `OpenCV, ROS, `
+- **Embedded Systems**: `Jetson Nano, Arduino, STM32`
+
+## 🌱 Current Projects & Learning
+
+- **Robotics Project**: `Developing Autonomous UnderWater Vehicle in the 2024 Kontes RObot Indonesia competition.`
+
+## 🤝 Connect with Me
+
+- 📧 `achadansori@ee.student.pens.ac.id`
