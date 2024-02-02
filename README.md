@@ -1,4 +1,4 @@
-## 👋 Muhammad Achad Ansori
+## Muhammad Achad Ansori
 
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=achadansori&color=blue&style=flat-square" align="left">
@@ -19,4 +19,4 @@ Hello there! 👋 I'm Ansori, with a keen interest in Robotics and IoT. I posses
 
 ## 🤝 Connect with Me
 
-- [achadansori@ee.student.pens.ac.id](https://achadansori.ee.student.pens.ac.id/)https://achadansori.ee.student.pens.ac.id/
+- https://achadansori.ee.student.pens.ac.id/
