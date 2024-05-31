@@ -15,7 +15,7 @@ Hello there! 👋 I'm Ansori, with a keen interest in Robotics and IoT. I posses
 
 ## 🌱 Current Projects & Learning
 
-- **Robotics Project**: `Developing Autonomous Surface Vehicle in Kontes Kapal Indonesia Competition.` `Developing EAUV in Program Kreatif Mahasiswa "Jalavahana: Unmanned Autonomous Surface Vehicle Untuk Survei Data Perencanaan Pembangunan Turbin Angin Lepas Pantai."`
+- **Robotics Project**: `Developing Autonomous Surface Vehicle in Kontes Kapal Indonesia Competition.` `Developing UASV in Program Kreatif Mahasiswa "Jalavahana: Unmanned Autonomous Surface Vehicle Untuk Survei Data Perencanaan Pembangunan Turbin Angin Lepas Pantai."`
 
 ## 🤝 Connect with Me
 
