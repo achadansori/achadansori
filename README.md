@@ -88,4 +88,14 @@ My background spans **marine robotics, offshore operations, smart manufacturing,
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achadansori&layout=compact&hide_border=true&theme=tokyonight"/>
 </p>
 
+### 🐍 Contribution Activity
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/achadansori/achadansori/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/achadansori/achadansori/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/achadansori/achadansori/output/github-snake.svg" />
+</picture>
+</p>
+
 <p align="center"><i>"Turning prototypes into systems that hold up in the field."</i></p>
